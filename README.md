@@ -3,6 +3,7 @@ This repository contains a collection of Machine Learning (ML) and Deep Learning
 # Projects Included
 
 + Gender And Age Prediction -  Keras implementation of a CNN for estimating age and gender from a face image.
++ Loan Repayment Classifier - A Keras-based neural network using Dense layers and Sequential API to classify whether a loan will be repaid or not.
 + Predict Rating based on Review(text) - Used NLP to Predict business rating based on user review.
 + Advanced Recommender System - Model based CF and Memory based CF using svds implementation for recommending movies.
 + Spam Message Detection - Detecting spam messages using Natural Processing ToolKit(NLTK).
