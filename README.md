@@ -2,7 +2,7 @@ This repository contains a collection of Machine Learning (ML) and Deep Learning
 
 # Projects Included
 
-+ RAG-Insurance-ChatBot - This project is an AI-powered chatbot for InsureLLM, built with LangChain, Chroma, OpenAI, and Gradio. Using a Retrieval-Augmented Generation (RAG) architecture, it provides instant, accurate responses to insurance-related queries by pulling information from a vector store.(Knowledge Base for this is available as well)
++ RAG-Insurance-ChatBot - This project is an AI-powered chatbot for InsureLLM, built with LangChain, Chroma, OpenAI, and Gradio. Using a Retrieval-Augmented Generation (RAG) architecture, it provides instant, accurate responses to insurance-related queries by pulling information from a vector store.
 +  Loan Repayment Classifier - A Keras-based neural network using Dense layers and Sequential API to classify whether a loan will be repaid or not.
 + Customer-Churn-Prediction - Predicted likelihood of Customer Churn/Retention using Random Forest Classifier.
 + House-Price-Prediction - This project analyzes King County housing data to build a neural network model using Keras' Sequential API with Dense layers to predict house prices based on various features.
