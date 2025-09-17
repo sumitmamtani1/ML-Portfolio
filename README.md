@@ -2,7 +2,8 @@ This repository contains a collection of Machine Learning (ML) and Deep Learning
 
 # Projects Included
 
-+ Loan Repayment Classifier - A Keras-based neural network using Dense layers and Sequential API to classify whether a loan will be repaid or not.
++ RAG-Insurance-ChatBot - This project is an AI-powered chatbot for InsureLLM, built with LangChain, Chroma, OpenAI, and Gradio. Using a Retrieval-Augmented Generation (RAG) architecture, it provides instant, accurate responses to insurance-related queries by pulling information from a vector store.(Knowledge Base for this is available as well)
++  Loan Repayment Classifier - A Keras-based neural network using Dense layers and Sequential API to classify whether a loan will be repaid or not.
 + Customer-Churn-Prediction - Predicted likelihood of Customer Churn/Retention using Random Forest Classifier.
 + House-Price-Prediction - This project analyzes King County housing data to build a neural network model using Keras' Sequential API with Dense layers to predict house prices based on various features.
 + Brain-Tumor-Classification - This project classifies MRI brain images to detect the presence of a tumor using Convolutional Neural Networks (CNN) with Sequential and Transfer Learning models, achieving 98% accuracy. It leverages deep learning to assist in early and accurate brain tumor diagnosis.
